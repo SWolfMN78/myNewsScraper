@@ -24,6 +24,32 @@ The following Node.js NPM's will be needed in order to run this program.  If you
  request
 ```
 
+### File Setup:
+├── controllers
+|  ├── fetch.js
+|  ├── headline.js
+|  └── note.js
+├── models
+|  ├── Headline.js
+|  ├── index.js
+|  └── Note.js
+├── public
+|  └── assets
+├── routes
+|  ├── api
+|  ├── index.js
+|  └── view
+├── scripts
+|  └── scrape.js
+└── views
+|   ├── home.handlebars
+|   ├── layouts
+|   └── saved.handlebars
+├── package-lock.json
+├── package.json
+└── server.js
+
+
 ## Deployment:
 I am using Github & Heroku for deployment.
 * [SJWolf78's GitHub](https://swolfmn78.github.io/myNewsScrapper/) 
