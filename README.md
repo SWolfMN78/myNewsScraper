@@ -6,10 +6,10 @@ Small project to create an application which will utilize Mongoose & Cheerio to 
 To download a copy of the repo for your own use please access: https://github.com/SWolfMN78/myNewsScrapper.
 
 ### Prerequisites:
-======  
+------  
 
 ### Installing:
-======  
+------  
 
 
 ## Built With:
