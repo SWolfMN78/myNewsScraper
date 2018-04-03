@@ -7,7 +7,14 @@ To download a copy of the repo for your own use please access: https://github.co
 ## Prerequisites: 
 You're going to need the following bits of software to operate this.
 
-#### NPM's for Node.JS
+#### Getting started: 
+1. Clone this repo
+2. Run `npm install` in the command line.
+3. Run `node server.js` in the command line to run the application.
+
+## Install:
+The following Node.js NPM's will be needed in order to run this program.  If you've cloned the json file you can also use NPM Install to quickly load up the dependencies.
+
 ```
 * express
 * express-handlebars
@@ -17,23 +24,22 @@ You're going to need the following bits of software to operate this.
 * request
 ```
 
-
-## Installing:
-
-
 ## Deployment:
-
+I am using Github & Heroku for deployment.
+* [SJWolf78's GitHub](https://swolfmn78.github.io/myNewsScrapper/) 
+* [My News Scrapper - Heroku](https://guarded-crag-51081.herokuapp.com/)
 
 ## Built With:
-
-
-## Contributing
+* VS Code
+* HTML
+* CSS
+* Node.js
+* Mongo
+* Mongoose
+* Cheerio
+* Express & Express Handlebars
 
 
 ## Authors:
-* Shawn Jonas Wolf @ [My GitHub Repo's](https://github.com/SWolfMN78 "SJWolf78")
-
-## Acknowledgments:
-
-
+* Shawn Jonas Wolf @ [SJWolf78's GitHub Repo's](https://github.com/SWolfMN78 "SJWolf78")
 
