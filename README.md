@@ -31,7 +31,7 @@ You're going to need the following bits of software to operate this.
 
 
 ## Authors:
-
+* Shawn Jonas Wolf @ [My GitHub Repo's](https://github.com/SWolfMN78 "SJWolf78")
 
 ## Acknowledgments:
 
