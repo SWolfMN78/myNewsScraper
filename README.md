@@ -25,6 +25,7 @@ The following Node.js NPM's will be needed in order to run this program.  If you
 ```
 
 ### File Setup:
+```
 ├── controllers
 |  ├── fetch.js
 |  ├── headline.js
@@ -48,6 +49,7 @@ The following Node.js NPM's will be needed in order to run this program.  If you
 ├── package-lock.json
 ├── package.json
 └── server.js
+```
 
 
 ## Deployment:
