@@ -13,7 +13,8 @@ You're going to need the following bits of software to operate this.
 3. Run `node server.js` in the command line to run the application.
 
 ## Install:
-The following Node.js NPM's will be needed in order to run this program.  If you've cloned the json file you can also use NPM Install to quickly load up the dependencies.
+The following Node.js NPM's will be needed in order to run this program.  
+If you've cloned the json file you can also use NPM Install to quickly load up the dependencies.
 
 ```
  express
@@ -51,7 +52,6 @@ The following Node.js NPM's will be needed in order to run this program.  If you
 └── server.js
 ```
 
-
 ## Deployment:
 I am using Github & Heroku for deployment.
 * [SJWolf78's GitHub](https://swolfmn78.github.io/myNewsScrapper/) 
@@ -71,5 +71,4 @@ I am using Github & Heroku for deployment.
 
 
 ## Authors:
-* Shawn Jonas Wolf @ [SJWolf78's GitHub Repo's](https://github.com/SWolfMN78 "SJWolf78")
-
+* Shawn Jonas Wolf @ [SJWolf78's GitHub Repo's](https://github.com/SWolfMN78 "SJWolf78").
