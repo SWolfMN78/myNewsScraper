@@ -16,12 +16,12 @@ You're going to need the following bits of software to operate this.
 The following Node.js NPM's will be needed in order to run this program.  If you've cloned the json file you can also use NPM Install to quickly load up the dependencies.
 
 ```
-* express
-* express-handlebars
-* mongoose
-* body-parser
-* cheerio
-* request
+ express
+ express-handlebars
+ mongoose
+ body-parser
+ cheerio
+ request
 ```
 
 ## Deployment:
