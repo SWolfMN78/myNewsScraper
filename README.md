@@ -30,9 +30,11 @@ I am using Github & Heroku for deployment.
 * [My News Scrapper - Heroku](https://guarded-crag-51081.herokuapp.com/)
 
 ## Built With:
-* VS Code
+* [VS Code](https://code.visualstudio.com)
 * HTML
 * CSS
+* Javascript
+* jQuery
 * Node.js
 * Mongo
 * Mongoose
