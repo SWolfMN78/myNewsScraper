@@ -1,4 +1,4 @@
-# My News Scrapper
+# My News Scraper
 Small project to create an application which will utilize Mongoose & Cheerio to scrape informaton from other sites for the user to be able to leave comments on about whatever latest news they view.  With the information being scrapped from other site(s) it should be noted that none of the articles are written by yours truly.
 
 ## Getting Started:
@@ -55,7 +55,7 @@ If you've cloned the json file you can also use NPM Install to quickly load up t
 ## Deployment:
 I am using Github & Heroku for deployment.
 * [SJWolf78's GitHub](https://swolfmn78.github.io/myNewsScrapper/) 
-* [My News Scrapper - Heroku](https://guarded-crag-51081.herokuapp.com/)
+* [My News Scraper - Heroku](https://guarded-crag-51081.herokuapp.com/)
 
 ## Built With:
 * [VS Code](https://code.visualstudio.com)
